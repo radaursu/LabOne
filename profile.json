@@ -1,0 +1,9 @@
+{
+  "firstName": "Rada",
+  "lastName": "Ursu",
+  "displayHandle": "TheCluelessStudent",
+  "posts": ["I woke up.", "I am frustrated with this project.", "I have no idea what I am doing."],
+  "age": 26,
+  "active": true
+
+}
